@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.3c69782f.chunk.js",
+    "main.js.map": "/static/js/main.3c69782f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1813a05f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1813a05f.js.map",
+    "static/js/2.86733144.chunk.js": "/static/js/2.86733144.chunk.js",
+    "static/js/2.86733144.chunk.js.map": "/static/js/2.86733144.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.089bcc9217155aceccc2b4bb89b36a5c.js": "/precache-manifest.089bcc9217155aceccc2b4bb89b36a5c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.86733144.chunk.js.LICENSE.txt": "/static/js/2.86733144.chunk.js.LICENSE.txt",
+    "static/media/Gentona-Book.woff2": "/static/media/Gentona-Book.a01d37cf.woff2",
+    "static/media/Gentona-ExtraBold.woff2": "/static/media/Gentona-ExtraBold.804e42e3.woff2",
+    "static/media/Gentona-Light.woff2": "/static/media/Gentona-Light.6556f666.woff2",
+    "static/media/Gentona-Medium.woff2": "/static/media/Gentona-Medium.3d87109f.woff2",
+    "static/media/marketers_hero_img2.png": "/static/media/marketers_hero_img2.f04e6a4f.png",
+    "static/media/profile.jpg": "/static/media/profile.79ba2002.jpg",
+    "static/media/svg-2.svg": "/static/media/svg-2.d4846e11.svg",
+    "static/media/svg-3.svg": "/static/media/svg-3.397c455a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1813a05f.js",
+    "static/js/2.86733144.chunk.js",
+    "static/js/main.3c69782f.chunk.js"
+  ]
+}
