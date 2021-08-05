@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.3c69782f.chunk.js",
-    "main.js.map": "/static/js/main.3c69782f.chunk.js.map",
+    "main.js": "/static/js/main.77568892.chunk.js",
+    "main.js.map": "/static/js/main.77568892.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1813a05f.js",
     "runtime-main.js.map": "/static/js/runtime-main.1813a05f.js.map",
     "static/js/2.86733144.chunk.js": "/static/js/2.86733144.chunk.js",
     "static/js/2.86733144.chunk.js.map": "/static/js/2.86733144.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.089bcc9217155aceccc2b4bb89b36a5c.js": "/precache-manifest.089bcc9217155aceccc2b4bb89b36a5c.js",
+    "precache-manifest.6e601d80d4f0e52f181cabb11bcd809b.js": "/precache-manifest.6e601d80d4f0e52f181cabb11bcd809b.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.86733144.chunk.js.LICENSE.txt": "/static/js/2.86733144.chunk.js.LICENSE.txt",
     "static/media/Gentona-Book.woff2": "/static/media/Gentona-Book.a01d37cf.woff2",
@@ -22,6 +22,6 @@
   "entrypoints": [
     "static/js/runtime-main.1813a05f.js",
     "static/js/2.86733144.chunk.js",
-    "static/js/main.3c69782f.chunk.js"
+    "static/js/main.77568892.chunk.js"
   ]
 }
