@@ -10,7 +10,7 @@ import TrustUs from "./TrustUs";
 
 const Layout = () => {
   return (
-    <div className="relative font-Poppins">
+    <div className="relative font-Poppins lg:h-screen">
     <Head>
         <meta charSet="UTF-8"/>
         <meta httpEquiv="X-UA-Compatible" content="IE=edge"/>
